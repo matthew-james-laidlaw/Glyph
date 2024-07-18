@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13339685-653F-47DB-80F1-EF570B9AC837}|LibGlyph\\LibGlyph.vcxproj|C:\\Users\\matth.MATT\\source\\repos\\Glyph\\LibGlyph\\WindowsTerminal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13339685-653F-47DB-80F1-EF570B9AC837}|LibGlyph\\LibGlyph.vcxproj|solutionrelative:LibGlyph\\WindowsTerminal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13339685-653F-47DB-80F1-EF570B9AC837}|LibGlyph\\LibGlyph.vcxproj|C:\\Users\\matth.MATT\\source\\repos\\Glyph\\LibGlyph\\Terminal.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13339685-653F-47DB-80F1-EF570B9AC837}|LibGlyph\\LibGlyph.vcxproj|solutionrelative:LibGlyph\\Terminal.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793EA822-45F7-439B-AFD3-B0A584E7835C}|Glyph\\Glyph.vcxproj|C:\\Users\\matth.MATT\\source\\repos\\Glyph\\Glyph\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{793EA822-45F7-439B-AFD3-B0A584E7835C}|Glyph\\Glyph.vcxproj|solutionrelative:Glyph\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\Glyph\\main.cpp",
+              "RelativeDocumentMoniker": "Glyph\\main.cpp",
+              "ToolTip": "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\Glyph\\main.cpp",
+              "RelativeToolTip": "Glyph\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T01:30:49.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsTerminal.cpp",
+              "DocumentMoniker": "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\LibGlyph\\WindowsTerminal.cpp",
+              "RelativeDocumentMoniker": "LibGlyph\\WindowsTerminal.cpp",
+              "ToolTip": "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\LibGlyph\\WindowsTerminal.cpp",
+              "RelativeToolTip": "LibGlyph\\WindowsTerminal.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T00:53:39.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terminal.hpp",
+              "DocumentMoniker": "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\LibGlyph\\Terminal.hpp",
+              "RelativeDocumentMoniker": "LibGlyph\\Terminal.hpp",
+              "ToolTip": "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\LibGlyph\\Terminal.hpp",
+              "RelativeToolTip": "LibGlyph\\Terminal.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-18T00:53:36.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

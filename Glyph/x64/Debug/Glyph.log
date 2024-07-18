@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\matth.MATT\source\repos\Glyph\Glyph\main.cpp(14,17): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\matth.MATT\source\repos\Glyph\Glyph\main.cpp(15,17): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\matth.MATT\source\repos\Glyph\Glyph\main.cpp(16,17): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\matth.MATT\source\repos\Glyph\Glyph\main.cpp(17,17): warning C4390: ';': empty controlled statement found; is this the intent?
+main.obj : error LNK2019: unresolved external symbol "public: virtual char __cdecl Terminal::ReadChar(void)" (?ReadChar@Terminal@@UEAADXZ) referenced in function "public: void __cdecl Controller::Run(void)" (?Run@Controller@@QEAAXXZ)
+LibGlyph.lib(WindowsTerminal.obj) : error LNK2001: unresolved external symbol "public: virtual char __cdecl Terminal::ReadChar(void)" (?ReadChar@Terminal@@UEAADXZ)
+C:\Users\matth.MATT\source\repos\Glyph\x64\Debug\Glyph.exe : fatal error LNK1120: 1 unresolved externals

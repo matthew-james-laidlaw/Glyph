@@ -1,0 +1,3 @@
+﻿  WindowsTerminal.cpp
+C:\Users\matth.MATT\source\repos\Glyph\LibGlyph\WindowsTerminal.cpp(81,62): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  LibGlyph.vcxproj -> C:\Users\matth.MATT\source\repos\Glyph\x64\Debug\LibGlyph.lib
