@@ -1,0 +1,10 @@
+^C:\USERS\MATTH.MATT\SOURCE\REPOS\GLYPH\BUILD\CMAKEFILES\4AEA0D3492AA5FF675A01176B4FA5E9B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/matth.MATT/source/repos/Glyph -BC:/Users/matth.MATT/source/repos/Glyph/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/matth.MATT/source/repos/Glyph/build/GLYPH.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

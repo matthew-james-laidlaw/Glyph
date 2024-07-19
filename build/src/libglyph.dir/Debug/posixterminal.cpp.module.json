@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "libglyph.dir\\Debug\\PosixTerminal.obj",
+            "outputs": [
+                "C:\\Users\\matth.MATT\\source\\repos\\Glyph\\build\\bin\\Debug\\libglyph.pdb",
+                "libglyph.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
